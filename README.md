@@ -1,7 +1,7 @@
-# 👋 Hello! I'm Thamirwaran
+# 👋 Hello! I'm Thamirawaran
 ### 3rd Year Electronics & Telecommunications Engineering Student | Machine Learning Enthusiast | FPGA & SoC Designer
 
-![Banner](https://your-banner-link.com) <!-- Optional: Add a relevant banner image here -->
+<!--![Banner](https://your-banner-link.com)--> <!-- Optional: Add a relevant banner image here -->
 
 I’m currently pursuing my studies at **University of Moratuwa**, specializing in **Electronics and Telecommunications Engineering**. My journey through engineering has ignited a passion for cutting-edge technologies, particularly in:
 
@@ -39,15 +39,15 @@ I’m currently pursuing my studies at **University of Moratuwa**, specializing 
 
 ## 📈 **GitHub Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thamirwaran&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamirwaran&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thamirawaran&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamirawaran&layout=compact&theme=radical)
 
 ---
 
 ## 📫 **How to Reach Me**
 
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/thamirawaran)
-- **Email**: [thamirwaran12@gmail.com](mailto:thamirwaran12@gmail.com)
+- **Email**: [thamirwaran12@gmail.com](mailto:thamirawaran12@gmail.com)
 
 ---
 
