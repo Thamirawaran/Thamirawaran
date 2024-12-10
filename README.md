@@ -37,6 +37,7 @@ I’m currently pursuing my studies at **University of Moratuwa**, specializing 
 
 ---
 
+## 📈 **GitHub Stats**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
   <!-- Left Side: GitHub Stats and Contributions -->
@@ -54,10 +55,11 @@ I’m currently pursuing my studies at **University of Moratuwa**, specializing 
   </div>
 </div>
 
-## 📈 **GitHub Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thamirawaran&show_icons=true&theme=radical)  
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thamirawaran&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamirawaran&layout=compact&theme=radical)
+-->
 
 ---
 
