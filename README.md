@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Large, bold name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=930&color=F7C873&center=true&width=700&lines=Hi%2C+I'm+Thamirawaran+Sathiyalogeswaran!" alt="Typing SVG Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=F7C873&center=true&width=700&lines=Hi%2C+I'm+Thamirawaran+Sathiyalogeswaran!" alt="Typing SVG Roles" />
 <!--   <br> -->
   <!-- Smaller subtitle roles -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=F7C873&center=true&width=700&lines=AI+Engineer+%7C+Jaseci+Stack+Advocate+%7C+Compiler+Enthusiast" alt="Typing SVG Roles" />
