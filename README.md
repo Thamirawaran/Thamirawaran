@@ -2,13 +2,8 @@
 <!-- <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%" /> -->
 
 <p align="center">
-  <!-- Large, bold name -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=900&color=F7C873&center=true&width=700&lines=Hi%2C+I'm+Thamirawaran+Sathiyalogeswaran!" alt="Typing SVG Roles" />
-<!--   <br> -->
-  <!-- Smaller subtitle roles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=800&color=F7C873&center=true&width=700&lines=AI+Engineer+%7C+Jaseci+Stack+Advocate+%7C+Compiler+Enthusiast" alt="Typing SVG Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F7C873&vCenter=true&multiline=true&width=1000&height=80&lines=Hi%2C+I'm+Thamirawaran+Sathiyalogeswaran!;AI+Engineer+%7C+Jaseci+Stack+Advocate+%7C+Compiler+Enthusiast" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thamirawaran"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
