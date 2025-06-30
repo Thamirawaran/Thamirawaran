@@ -2,7 +2,7 @@
 <!-- <img src="https://your-banner-url.com/banner.png" alt="Banner" width="100%" /> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F7C873&vCenter=true&multiline=true&width=1000&height=80&lines=Hi%2C+I'm+Thamirawaran+Sathiyalogeswaran!;AI+Engineer+%7C+Jaseci+Stack+Advocate+%7C+Compiler+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F7C873&vCenter=true&multiline=true&width=1000&height=80&lines=Hi%2C+I'm+Thamirawaran+Sathiyalogeswaran!;AI+Engineer+%7C+Jaseci+Enthusiast+%7C+Compiler+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
