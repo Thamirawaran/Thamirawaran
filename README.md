@@ -15,14 +15,14 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding animation" />
 
-### 👨‍💻 **AI Software Engineer @ [Jaseci Labs](https://github.com/Jaseci-Labs)**  
+### 👨‍💻 **AI Engineer @ [Jaseci Labs](https://github.com/Jaseci-Labs)**  
 **Specializing in: Compiler Engineering · MLOps · AI Model Training · Digital Hardware Integration**
 
 ---
 
 ## 🧠 About Me
 
-- **Full-time AI Software Engineer** at Jaseci Labs (JacLang & Jaseci core stack contributor)
+- **Full-time AI Engineer** at Jaseci Labs (JacLang & Jaseci core stack contributor)
 - **3rd Year Undergraduate** in Electronics & Telecommunications, University of Moratuwa
 - Enthusiastic about bridging AI, compiler theory, and hardware
 - Passionate about open-source and next-generation ML systems
