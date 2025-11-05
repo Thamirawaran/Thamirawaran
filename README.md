@@ -59,7 +59,7 @@
 <details>
 <summary>More Tech & Tools</summary>
 
-- **Languages:** Python, JacLang, C/C++, Rust, Go, Bash  
+- **Languages:** Python, JacLang, C/C++, Rust, Go, Bash, Jaclang  
 - **ML & MLOps:** PyTorch, TensorFlow, Hugging Face, TorchDynamo, ONNX, MLflow, DVC  
 - **Compilers:** JacLang, Python (TorchDynamo), language integration  
 - **Hardware:** Vivado, Vitis, Quartus, ModelSim, MATLAB/Simulink  
