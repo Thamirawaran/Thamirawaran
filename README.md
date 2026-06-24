@@ -75,7 +75,7 @@ A few areas I've been building and experimenting with:
 Always happy to connect with others interested in  
 **compilers, systems, and efficient computing.**
 
-📩 Email: **thamirwaran12@gmail.com**  
+📩 Email: **thamirawaran12@gmail.com**  
 🔗 LinkedIn: https://www.linkedin.com/in/thamirawaran  
 
 ---
