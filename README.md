@@ -19,8 +19,7 @@
 ## 🚀 About Me
 
 - **Compiler Design Engineer** focused on programming languages and runtime systems  
-- Contributor to the **JacLang compiler ecosystem** at  
-  [Jaseci Labs](https://github.com/Jaseci-Labs)
+- Contributor to the **JacLang compiler ecosystem** at  [Jaseci Labs](https://github.com/Jaseci-Labs)
 - Exploring **hardware-aware acceleration** and low-level performance  
 - Broad interest in **AI research and machine learning systems**  
 - Passionate about open-source developer infrastructure  
