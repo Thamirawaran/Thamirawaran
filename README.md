@@ -1,89 +1,37 @@
 <h1 align="center">Hi, I'm Thamirawaran 👋</h1>
 
 <p align="center">
-  <b>Compiler Design Engineer · Systems Builder · AI Researcher</b>
+  <strong>NeurIPS 2026 Author · Compiler & ML Systems Engineer · Independent AI Researcher</strong>
 </p>
 
 <p align="center">
-  Interested in building efficient foundations for next-generation computing.
+  I work at the intersection of programming languages, machine learning systems, and AI research.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thamirawaran">LinkedIn</a> •
-  <a href="mailto:thamirwaran12@gmail.com">Email</a> •
-  <a href="https://github.com/Thamirawaran">GitHub</a>
+  <a href="https://www.linkedin.com/in/thamirawaran/">LinkedIn</a> ·
+  <a href="mailto:thamirawaran12@gmail.com">Email</a>
 </p>
 
----
+## About
 
-## 🚀 About Me
+I build compilers and developer tools, and conduct independent AI research. My work spans the [Jac/Jaseci ecosystem](https://github.com/jaseci-labs/jaseci), PyTorch compilation, generative AI, and AI systems evaluation.
 
-- **Compiler Design Engineer** focused on programming languages and runtime systems  
-- Contributor to the **JacLang compiler ecosystem** at  [Jaseci Labs](https://github.com/Jaseci-Labs)
-- Exploring **hardware-aware acceleration** and low-level performance  
-- Broad interest in **AI research and machine learning systems**  
-- Passionate about open-source developer infrastructure  
+I am an author of a paper accepted at **NeurIPS 2026** on multi-LoRA composition. I also co-authored [GraphMend: Code Transformations for Fixing Graph Breaks in PyTorch 2](https://arxiv.org/abs/2509.16248).
 
----
+## Selected work
 
-## 🔍 Areas of Interest
+- **Multi-LoRA composition:** Research on composing LoRA adapters for generative models; paper accepted at NeurIPS 2026. Paper link to follow when publicly available.
+- **[GraphMend](https://arxiv.org/abs/2509.16248):** Co-authored research on source transformations that address graph breaks in PyTorch 2.
+- **[Jac and Jaseci](https://github.com/jaseci-labs/jaseci):** Compiler and language tooling contributions to the open-source Jac ecosystem.
+- **[JaseciBench](https://github.com/Thamirawaran/JaseciBench):** A benchmark project for evaluating models, coding agents, and application-generation platforms.
 
-- **Compilers & Language Design**  
-  (e.g., JacLang compiler work at [Jaseci Labs](https://github.com/Jaseci-Labs))
+I am also exploring vision-language models and the evaluation of text-to-image systems.
 
-- **Performance Engineering & Runtime Systems**
+## Interests
 
-- **Hardware Acceleration**
+Compilers · Mathematical foundations of AI · AI systems research
 
-- **AI Research (General + Applied Systems)**
+## Connect
 
----
-
-## 🛠 Tools I Enjoy Working With
-
-- Python · C/C++ · Rust  
-- Compilers · Optimization · Runtime Systems  
-- PyTorch · ML Infrastructure  
-- Linux · Git · Docker  
-
----
-
-## 📌 Projects
-
-A few areas I've been building and experimenting with:
-
-- Compiler + language development work  
-- Systems and infrastructure projects  
-- Hardware-oriented explorations  
-- AI and machine learning implementations  
-
-(See repositories for details.)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thamirawaran&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🤝 Connect
-
-Always happy to connect with others interested in  
-**compilers, systems, and efficient computing.**
-
-📩 Email: **thamirawaran12@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/thamirawaran  
-
----
-
-<p align="center">
-  <i>Engineering efficient systems from languages down to hardware.</i>
-</p>
-
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/thamirawaran/) · [Email](mailto:thamirawaran12@gmail.com)
